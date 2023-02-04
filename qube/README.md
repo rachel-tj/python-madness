@@ -7,4 +7,4 @@ this is my best project so far.  i used so many things.  let's review!!
 - recursion (eww)
 - 2d array manipulation (so so much of this)
 
-and most importantly... ### dijikstra's algorithm!!!
+and most importantly... **dijikstra's algorithm!!!**
