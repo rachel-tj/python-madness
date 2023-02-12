@@ -1,3 +1,3 @@
 # python-madness
 
-i wrote all of these fake data structures in order to figure out how python works.  soon, eva will email me some of the assignments from the python class she "auditing" this semester, and i will complete that and upload it to the python madness folder.  
+in order to learn python, i redid the csds 233 assignments but in python instead of java.  i think that this went pretty well, considering i had only known python for a few days at this point.  i also wrote command-line blackjack so that i could learn how classes and objects worked in python.
